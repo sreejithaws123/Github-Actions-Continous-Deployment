@@ -45,9 +45,9 @@ Below, I have included a simple diagram showing this CD pipeline,
 
 ```
 cd /var 
-git clone 
+git clone https://github.com/sreejithaws123/Github-Actions-Continuous-Deployment.git
 Chown -R jenkins. Github-Actions-Continuous-Deployment 
-cd Jenkins-Continuous-Deployment 
+cd Github-Actions-Continuous-Deployment 
 # Edit the above mentioned files and add key pem file with 600 permission and jenkins ownership
 Setup Jenkins with Ansible, Teraform, Packer, Deployment pipeline plugins and Create 3 jobs for pipeline
 Setup Webhook for the Git Repository
@@ -76,4 +76,4 @@ Once any commits are done on the Git repository the Jenkins will be triggered an
 
 ### Connect with me
 
---------<img src="https://img.shields.io/badge/-Sreejith%20Rajan-brightgreen"/> ----------------------------------------------------------------------------------------------------------------------------------- <a href="https://www.linkedin.com/in/profile-markantony/"><img src="https://img.shields.io/badge/-Linkedin%20Profile-blue"/></a> ------------------------------------------------------------------------------------------------------------------------------------ <a href="mailto:sreejithrjn1995@gmail.com"><img src="https://img.shields.io/badge/-sreejithrjn1995@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>-------------------------------------------------------
+--------<img src="https://img.shields.io/badge/-Sreejith%20Rajan-brightgreen"/> ----------------------------------------------------------------------------------------------------------------------------------- <a href="https://www.linkedin.com/in/profile-sreejith-rajan/"><img src="https://img.shields.io/badge/-Linkedin%20Profile-blue"/></a> ------------------------------------------------------------------------------------------------------------------------------------ <a href="mailto:sreejithrjn1995@gmail.com"><img src="https://img.shields.io/badge/-sreejithrjn1995@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>-------------------------------------------------------
