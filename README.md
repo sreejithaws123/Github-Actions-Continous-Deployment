@@ -60,20 +60,20 @@ Once any commits are done on the Git repository the Jenkins will be triggered an
 
 -- Git Hub Webhook
 
-![](https://raw.githubusercontent.com/MarkAntonyGit/MarkAntonyGit/main/Uploads/Jenkins/webhook.JPG)
+![](https://github.com/sreejithaws123/first/blob/05edaaa883c4d202ee4af034af93d862a5db48c2/webhook.JPG)
 
 -- Jenkins Pipeline
 
-![](https://raw.githubusercontent.com/MarkAntonyGit/MarkAntonyGit/main/Uploads/Jenkins/2.JPG)
+![](https://github.com/sreejithaws123/first/blob/05edaaa883c4d202ee4af034af93d862a5db48c2/2.JPG)
 
 -- Git Website Version 1
 
-![](https://raw.githubusercontent.com/MarkAntonyGit/MarkAntonyGit/main/Uploads/Jenkins/website%201.JPG)
+![](https://github.com/sreejithaws123/first/blob/05edaaa883c4d202ee4af034af93d862a5db48c2/website%201.JPG)
 
 -- Once Version 2 is commited
 
-![](https://raw.githubusercontent.com/MarkAntonyGit/MarkAntonyGit/main/Uploads/Jenkins/website%202.JPG)
+![](https://github.com/sreejithaws123/first/blob/05edaaa883c4d202ee4af034af93d862a5db48c2/website%202.JPG)
 
 ### Connect with me
 
---------<img src="https://img.shields.io/badge/-Mark%20Antony-brightgreen"/> ----------------------------------------------------------------------------------------------------------------------------------- <a href="https://www.linkedin.com/in/profile-markantony/"><img src="https://img.shields.io/badge/-Linkedin%20Profile-blue"/></a> ------------------------------------------------------------------------------------------------------------------------------------ <a href="mailto:markantony.alenchery@gmail.com"><img src="https://img.shields.io/badge/-markantony.alenchery@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>-------------------------------------------------------
+--------<img src="https://img.shields.io/badge/-Sreejith%20Rajan-brightgreen"/> ----------------------------------------------------------------------------------------------------------------------------------- <a href="https://www.linkedin.com/in/profile-markantony/"><img src="https://img.shields.io/badge/-Linkedin%20Profile-blue"/></a> ------------------------------------------------------------------------------------------------------------------------------------ <a href="mailto:markantony.alenchery@gmail.com"><img src="https://img.shields.io/badge/-markantony.alenchery@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>-------------------------------------------------------
