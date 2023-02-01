@@ -1,9 +1,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=sreejithaws123/Github-Actions-Continuous-Deployment)
 
 # 
-Github Actions Continuous Deployment
+Github Actions And Continuous Deployment
 
-Github Actions Continuous Deployment for Git based website/App with Packer, Terraform and Ansible. 
+Github Actions And Continuous Deployment for Git based website/App with Packer, Terraform and Ansible. 
 
 # Description
 
@@ -45,8 +45,8 @@ Below, I have included a simple diagram showing this CD pipeline,
 
 ```
 cd /var 
-git clone https://github.com/MarkAntonyGit/Jenkins-Continuous-Deployment.git
-Chown -R jenkins. Jenkins-Continuous-Deployment
+git clone 
+Chown -R jenkins. Github-Actions-Continuous-Deployment 
 cd Jenkins-Continuous-Deployment 
 # Edit the above mentioned files and add key pem file with 600 permission and jenkins ownership
 Setup Jenkins with Ansible, Teraform, Packer, Deployment pipeline plugins and Create 3 jobs for pipeline
